@@ -1,5 +1,5 @@
 # DYLAN TAY
-**Software Developer**
+**Software Developer** \
 Email: dylantayzyyt@gmail | Phone: +65 83999239 
 
 ### EDUCATION
