@@ -65,3 +65,4 @@ Others: Bash, Linux, React, Electron, Neovim
 **Logistics Assistant, BDP (Jan 2025 - Apr 2025)**
 * Produced documents efficiently and timely such that goods can ship into and out of Singapore
 * Worked in large team to support operational requirements for clients who does shipping regularly
+
