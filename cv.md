@@ -1,5 +1,5 @@
 # DYLAN TAY
-**Software Developer**
+**Software Developer** \
 Email: dylantayzyyt@gmail | Phone: +65 83999239 
 
 ### EDUCATION
@@ -29,27 +29,29 @@ Others: Bash, Linux, React, Electron, Neovim
 
 ### PROJECTS
 ---
-**AgiNote, NUS Orbital (Apr 2026 - Jul 2026): Apollo 11 Level**
+**AgiNote, NUS Orbital (Apr 2026 - Jul 2026)** \
+**Level: Apollo 11**
 * Utilised React and Electron ecosystem to make note taking app
-* Implemented 7 - 9 features in a team of 2
+* Implemented 7 - 9 features in a team of 2, notably synchronization of notes and split screen, tab system.
 * Self learnt most of the skills required
 
-**International Mathematical Modelling Challenge, Singapore (June 2022): High Distinction**
+**International Mathematical Modelling Challenge, Singapore (June 2022): High Distinction** \
+**Award: High Distinction**
 * Used data analytics and Python to simulate Airplane boarding
 * Did hypothesis testing and used statistical modelling on project
-* End product: 20 page mathematical research paper
+* Used Numpy and MatPlotLib to process and display the data through plots and distribution modelling
 
 **Current Ideas (WIP, June 2026 - Present)**
-* Made workflow, and daily driver in Arch
+* Made workflow, and daily driver in Arch, learning services and package management, along with Bash
 * Making TUI from Ratatui API on prioritising tasks efficiently
 * Making TUI on Canvas System for fast access
     
 ### EXPERIENCE
 ---
 **Accountant, Black Mirror (Sep 2025 - Dec 2025)**
-* Set up accounting system for Black Mirror
+* Set up accounting system for Black Mirror, handling 200+ reports
 * Submitted daily, weekly and monthly reports timely to Black Mirror
-* Learnt about accounting systems quickly to set up
+* Learnt about setting up sustainable accounting system, lasting across the company's lifetime
 
 **CS1231S Tutor, NUS (Aug 2026 - Present)**
 * Communicate abstract ideas proficiently with engagement
